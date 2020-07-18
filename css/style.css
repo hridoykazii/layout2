@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid red;
+    min-height: 100px;
+    overflow: hidden;
+    margin-bottom: 10px;
+} 
+
+.header, .hero, .body, .bar, .footer{
+    font-size: 18px;
+    color: white;
+    background-color: aqua;
+}
+.box{
+    min-height: 100px;
+    background-color: red;
+    margin-bottom: 5px;
+}
+
+.blue{
+    background-color: blue;
+}
